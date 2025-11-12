@@ -1,0 +1,8 @@
+# 配置文件（包含敏感信息）
+.leetcode.json
+
+# 其他需要忽略的文件
+*.zip
+*.tar.gz
+*.tar
+
