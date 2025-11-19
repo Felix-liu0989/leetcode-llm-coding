@@ -1,12 +1,10 @@
-# 汇总
+# string  # 使用到的标签
 
 <!--- table -->
 
 
-总计: 3
+总计: 1
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      | 完成 |
 | ---- | ---- | ---- | ------------------ | ---------------- | -------- | 
 | 20  # 前端展示编号 | 20  # 题目编号 | 简单  # 难度级别 | [有效的括号  # 题目标题](https://leetcode.cn/problems/valid-parentheses/description/  # 原题链接) | [solve\0020.valid-parentheses](../solve\0020.valid-parentheses)| py ❌ |
-| 1 | 1 | 简单 | [两数之和](https://leetcode.cn/problems/two-sum/description/) | [solve\0001.two-sum](../solve\0001.two-sum)| py ✅ |
-| 2 | 2 | 中等 | [两数相加](https://leetcode.cn/problems/add-two-numbers/description/) | [solve\0002.add-two-numbers](../solve\0002.add-two-numbers)| py ❌ |
